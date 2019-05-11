@@ -1,0 +1,43 @@
+body {
+	background: rgb(230,230,230);
+	color: rgb(60,60,60);
+	font-size: 25px;
+	font-family: Courier;
+	text-align: center; 
+	}
+#banner {
+	background-image: url(https://lh3.googleusercontent.com/_jDWp2QgDLPB1jF6PK8xsmeuCC2SAKdv_0yo_XR4OHFJGdzIKLG-zw6GbtRa3_cXK3M8NrKjqdqbZcIno7_d2hwyFIIpsLZn8p4SkLGBtmomxwyJTeLEgHEoK2oQJ_-AdJvwXErUSHBcQ03epvE3cKq2f87gGPiN0jW5XF30mSC76ahIzRY71VdOIhCqt4FZi_1xjmZttoY0bfSwC99OMxb91tuGGu1a23Az56EKV5QLjeTQ4UDREfpKl8O6527U7H1OaehjHK0ARPx_UjcVyldyknW-KplPb3bY3P3CImfy-ZzWOHhOMgXTNE9fYwMVId92s4OXde9b3jatLHSBeYdaCRRLVMYDidiDRhHuSfW6H7aLoicY0vZN3ypkqKldcM9BxK4bI7RtTDVAIaOBgmxK59ECuTY7EIJ9xgR8kP-YjaVae7teaq8pUlIbrRQzLKcaZO8W0zVwf0oJZM9aJee8ofqqrHhoKZR6JelKrw6-wnmNmRrbXkDwTK0DXHT7ROPm8agdhbshoS-CQyxQOe1qawyrtySnNdDYGq3oIjvvXxdT63H2pTU5snLwRgsLGnCLOgCgUwqvn0HqdmYWs4u_hl_B4HNBxmv7xHtB_JDKtUNFiq3wvjX4ed7HDtNALPXv9LqY32XgRTz4-r9GKRGqlxyH5Yw=w1774-h1182-no);
+	border-radius: 5px;
+	padding: 3px;
+}
+#title {
+	font-family: Courier;
+	color: rgb(210,210,210);
+	font-size: 75px;
+	letter-spacing: 5px;
+	height: 40px;
+	}
+#underline {
+	font-size: 25px;
+	font-family: Courier;
+	color: rgb(210,210,210);
+}
+.photo {
+	font-family: Courier;
+	font-size: 15px;
+	font-weight: lighter;
+	margin: 50px;
+	padding: 5px;
+	border-radius: 50px;
+}
+.photodata {
+	border-radius: 150px;
+}
+#footer {
+	font-size: 70px;
+	color: black;
+}
+#footertext {
+	color: rbg(210,210,210);
+	font-size: 15px;
+}
